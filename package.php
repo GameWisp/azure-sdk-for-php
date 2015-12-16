@@ -22,7 +22,7 @@
  * @link      https://github.com/windowsazure/azure-sdk-for-php
  */
 
-require_once 'PEAR/PackageFileManager2.php';
+// require_once 'PEAR/PackageFileManager2.php';
 require_once 'Defaults.php';
 PEAR::setErrorHandling(PEAR_ERROR_DIE);
 

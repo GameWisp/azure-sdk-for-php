@@ -9,6 +9,12 @@
             "email": "azurephpsdk@microsoft.com"
         }
     ],
+    "repositories": [
+        {
+          "type" : "vcs",
+          "url": "https://github.com/GameWisp/HTTP_Request2.git"
+        }
+      ],
     "require": {
         "pear/http_request2": "^2.2",
         "pear/mail_mime": "^1.10",
